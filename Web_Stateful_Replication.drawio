@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:49:26.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KynvflvRfPSKbuhsky0O" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T09:50:00.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eleovW139SNxaXP1xqhy" version="22.1.7" type="github">
   <diagram name="Page-1" id="W3egZTGLbJBQ-ZvbNnxN">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,8 +141,8 @@
         <mxCell id="aS6O0uANGYLPyMVkly2j-40" value="When Low Latency Is Required" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="59" y="156" width="176" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aS6O0uANGYLPyMVkly2j-41" value="Sticky Sessions/Session Affinity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="73" y="178" width="185" height="30" as="geometry" />
+        <mxCell id="aS6O0uANGYLPyMVkly2j-41" value="Sticky Session/Session Affinity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="71" y="178" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aS6O0uANGYLPyMVkly2j-46" value="Sessions Occupy Memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="60" y="201" width="185" height="30" as="geometry" />
