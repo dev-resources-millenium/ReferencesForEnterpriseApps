@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:10:29.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-MW93tUhDEcdQ26RdyRO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T11:12:12.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="loPxiJwodxszcv46S0hm" version="22.1.7" type="github">
   <diagram name="Page-1" id="hsXx6_wmlTWPNyEW_iNE">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,9 +52,6 @@
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2BHKi3fGgR7jsmWQUKfR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BHKi3fGgR7jsmWQUKfR-19" target="2BHKi3fGgR7jsmWQUKfR-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-19" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="41" height="50" as="geometry" />
         </mxCell>
@@ -63,9 +60,6 @@
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-23" value="&lt;br&gt;Read + Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="310" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2BHKi3fGgR7jsmWQUKfR-24" value="Bidirectional Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="641" y="362" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -78,6 +72,15 @@
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-28" value="&lt;br&gt;Read + Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="551" y="398" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BHKi3fGgR7jsmWQUKfR-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.942;exitY=0.089;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="2BHKi3fGgR7jsmWQUKfR-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652.6199999999999" y="400.66999999999996" as="sourcePoint" />
+            <mxPoint x="649.5123155435608" y="357.46921114109773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2BHKi3fGgR7jsmWQUKfR-30" value="Bidirectional Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
