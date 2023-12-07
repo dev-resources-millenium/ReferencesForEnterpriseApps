@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:09:25.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uQQrniO6vGdvmKmiZGG4" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T11:10:29.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-MW93tUhDEcdQ26RdyRO" version="22.1.7" type="github">
   <diagram name="Page-1" id="hsXx6_wmlTWPNyEW_iNE">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="558.5" y="95" as="sourcePoint" />
-            <mxPoint x="631" y="95" as="targetPoint" />
+            <mxPoint x="558.5" y="104" as="sourcePoint" />
+            <mxPoint x="631" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="646" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-12" value="&lt;br&gt;Read + Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="60" width="110" height="30" as="geometry" />
+          <mxGeometry x="540" y="75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-13" value="Unidirectional Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="634" y="123" width="110" height="30" as="geometry" />
@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="568.5" y="335" as="sourcePoint" />
-            <mxPoint x="641" y="335" as="targetPoint" />
+            <mxPoint x="568.5" y="340" as="sourcePoint" />
+            <mxPoint x="641" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
@@ -62,10 +62,22 @@
           <mxGeometry x="640" y="400" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-23" value="&lt;br&gt;Read + Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="110" height="30" as="geometry" />
+          <mxGeometry x="550" y="310" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-24" value="Bidirectional Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="641" y="362" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BHKi3fGgR7jsmWQUKfR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572.5" y="429" as="sourcePoint" />
+            <mxPoint x="645" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2BHKi3fGgR7jsmWQUKfR-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="544" y="406" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2BHKi3fGgR7jsmWQUKfR-28" value="&lt;br&gt;Read + Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="551" y="398" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
