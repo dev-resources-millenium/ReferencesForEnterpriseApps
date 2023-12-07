@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T10:34:09.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dCHMzEHFFZdgS7CzPXin" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T10:38:19.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IOwfOR0TxGMZLDuFtVmE" version="22.1.7" type="github">
   <diagram name="Page-1" id="raTbgkiV0eQXkXkvPbVg">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,23 +28,11 @@
         <mxCell id="IMtHa_fX0zPymu5l_sIF-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="IMtHa_fX0zPymu5l_sIF-5">
           <mxGeometry width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-9" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="634" y="244" width="43" height="219" as="geometry" />
-        </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="IMtHa_fX0zPymu5l_sIF-9">
-          <mxGeometry x="2" y="91" width="41" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="IMtHa_fX0zPymu5l_sIF-9">
-          <mxGeometry x="1" width="41" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="IMtHa_fX0zPymu5l_sIF-9">
-          <mxGeometry y="169" width="41" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-13" value="DB Stateful Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="429" y="160" width="181" height="25" as="geometry" />
         </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-14" value="Stateful" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="625" y="202" width="60" height="30" as="geometry" />
+          <mxGeometry x="625" y="225" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" target="IMtHa_fX0zPymu5l_sIF-2">
           <mxGeometry relative="1" as="geometry">
@@ -140,22 +128,10 @@
             <mxPoint x="630" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IMtHa_fX0zPymu5l_sIF-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="440" as="sourcePoint" />
-            <mxPoint x="640" y="379" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-44" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="IMtHa_fX0zPymu5l_sIF-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="517" y="268" as="sourcePoint" />
             <mxPoint x="630" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IMtHa_fX0zPymu5l_sIF-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="272" as="sourcePoint" />
-            <mxPoint x="630" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-46" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="1">
@@ -164,20 +140,23 @@
             <mxPoint x="630" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMtHa_fX0zPymu5l_sIF-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IMtHa_fX0zPymu5l_sIF-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518" y="370" as="sourcePoint" />
-            <mxPoint x="630" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-48" value="Backup" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="724" y="244" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-49" value="Replica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="683" y="377" width="60" height="30" as="geometry" />
+          <mxGeometry x="653" y="343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IMtHa_fX0zPymu5l_sIF-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMtHa_fX0zPymu5l_sIF-11" target="IMtHa_fX0zPymu5l_sIF-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMtHa_fX0zPymu5l_sIF-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="635" y="335" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMtHa_fX0zPymu5l_sIF-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMtHa_fX0zPymu5l_sIF-11" target="IMtHa_fX0zPymu5l_sIF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMtHa_fX0zPymu5l_sIF-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="635" y="244" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
