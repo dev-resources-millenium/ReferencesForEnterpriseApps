@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:28:23.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1FIPUPiqS-vThxtBbU3d" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T09:31:23.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DDXsJRHgoD0p3VQxSIdb" version="22.1.7" type="github">
   <diagram name="Page-1" id="4nkYNXuBp-3ZMg_789rJ">
-    <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,11 +162,17 @@
         <mxCell id="ja2-nCNvYFSaKXGEcLIV-67" value="For Handling Increasing Loads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="14" y="41" width="176" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ja2-nCNvYFSaKXGEcLIV-68" value="Stateless(only Code)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="49" y="78" width="121" height="30" as="geometry" />
+        <mxCell id="ja2-nCNvYFSaKXGEcLIV-68" value="Stateless" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry y="61" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ja2-nCNvYFSaKXGEcLIV-69" value="Stateful(Code + Data)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="53" y="113" width="121" height="30" as="geometry" />
+        <mxCell id="ja2-nCNvYFSaKXGEcLIV-69" value="Stateful" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="101" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ja2-nCNvYFSaKXGEcLIV-70" value="Code Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="38" y="78" width="102" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ja2-nCNvYFSaKXGEcLIV-71" value="Code &amp;amp; Data Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="41" y="125" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
