@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:12:12.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="loPxiJwodxszcv46S0hm" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T11:25:00.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uX_bz53XTxhLbv9Z2f-Y" version="22.1.7" type="github">
   <diagram name="Page-1" id="hsXx6_wmlTWPNyEW_iNE">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,6 +82,26 @@
         <mxCell id="2BHKi3fGgR7jsmWQUKfR-30" value="Bidirectional Replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="110" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="Master Slave(Primary&amp;nbsp; - Secondary)&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Asynchronous(Read Replica)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Low Latency Writes&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Eventually Consistent&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Data Loss&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Synchronous(Backup)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Consistent&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; High Latency Writes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Low Write Availability&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;" placeholders="1" name="Variable" id="2BHKi3fGgR7jsmWQUKfR-32">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="60" y="78" width="240" height="130" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul&gt;&lt;li&gt;High Read Scalability&lt;/li&gt;&lt;li&gt;High Read Availability&lt;/li&gt;&lt;li&gt;No Write Conflicts&lt;/li&gt;&lt;/ul&gt;" placeholders="1" name="Variable" id="2BHKi3fGgR7jsmWQUKfR-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="303" y="112" width="181" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Master Master(No-Master/Peer-To-Peer)&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Asynchronous(Multi Geography)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Write Conflicts&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; High Availability&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;" placeholders="1" name="Variable" id="2BHKi3fGgR7jsmWQUKfR-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="61" y="323" width="240" height="77" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul&gt;&lt;li&gt;High Read Scalability&lt;/li&gt;&lt;li&gt;High Read Write Availability&lt;/li&gt;&lt;li&gt;Ordering Issues&lt;/li&gt;&lt;/ul&gt;" placeholders="1" name="Variable" id="2BHKi3fGgR7jsmWQUKfR-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="303" y="344" width="197" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
