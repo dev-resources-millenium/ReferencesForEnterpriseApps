@@ -224,9 +224,13 @@ https://github.com/2DGD-F0TH/2DGD_F0TH
 https://gameprogrammingpatterns.com/       
 https://www.amazon.in/AI-Games-Third-Ian-Millington/dp/0367670569         
 https://github.com/idmillington/aicore  
-https://www.amazon.in/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182          
+https://www.amazon.in/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182        
+https://www.amazon.in/Programming-Example-Wordware-Developers-Library/dp/1556220782             
 https://docs.godotengine.org/en/stable/index.html      
-https://gabrielgambetta.com/computer-graphics-from-scratch/         
+https://gabrielgambetta.com/computer-graphics-from-scratch/      
+https://www.amazon.in/gp/bestsellers/books/14447032031           
+https://www.amazon.in/gp/most-wished-for/books/14447032031           
+
 
 
 
