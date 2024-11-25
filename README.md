@@ -218,3 +218,17 @@ Sometimes you might need to create a language for your domain(something similar 
 For videos related to different fields of Computer Science and Engineering, refer [CS Courses with Videos](https://github.com/Developer-Y/cs-video-courses)              
              
 N.B. -> It’s not that I have read/viewed everything mentioned above but yes, I have read/viewed a few of them (partially or completely) and many are yet to be even started(for reading) but all the resources mentioned above are some of the best resources(as per my interaction with some beautiful minds and my own exploration). Also, something not mentioned in the above list doesn't mean that it's not good - only that I am not aware of(or not my preference).
+               
+**Game Dev** -      
+https://github.com/2DGD-F0TH/2DGD_F0TH                
+https://gameprogrammingpatterns.com/       
+https://www.amazon.in/AI-Games-Third-Ian-Millington/dp/0367670569         
+https://github.com/idmillington/aicore  
+https://www.amazon.in/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182          
+https://docs.godotengine.org/en/stable/index.html      
+https://gabrielgambetta.com/computer-graphics-from-scratch/         
+
+
+
+
+
