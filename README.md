@@ -223,11 +223,16 @@ N.B. -> It’s not that I have read/viewed everything mentioned above but yes, I
 https://github.com/2DGD-F0TH/2DGD_F0TH                
 https://gameprogrammingpatterns.com/       
 https://www.amazon.in/AI-Games-Third-Ian-Millington/dp/0367670569         
-https://github.com/idmillington/aicore  
+https://github.com/idmillington/aicore                
 https://www.amazon.in/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182        
-https://www.amazon.in/Programming-Example-Wordware-Developers-Library/dp/1556220782             
+https://www.amazon.in/Programming-Example-Wordware-Developers-Library/dp/1556220782           
+https://www.oreilly.com/library/view/physics-for-game/9781449361037/             
+https://github.com/Apress/physics-for-game-programmers          
+https://www.gameenginebook.com/ (https://www.oreilly.com/library/view/game-engine-architecture/9781351974271/)         
+https://www.amazon.in/Game-Physics-Engine-Development-Commercial-Grade/dp/0123819768    
 https://docs.godotengine.org/en/stable/index.html      
-https://gabrielgambetta.com/computer-graphics-from-scratch/      
+https://gabrielgambetta.com/computer-graphics-from-scratch/        
+https://www.amazon.in/Schaums-Outline-Computer-Graphics-Outlines/dp/0071357815         
 https://www.amazon.in/gp/bestsellers/books/14447032031           
 https://www.amazon.in/gp/most-wished-for/books/14447032031           
 
